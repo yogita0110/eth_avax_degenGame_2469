@@ -49,7 +49,7 @@ The `TokenRedemption` function allows players to redeem tokens for items in the 
 
 ### Video Walkthrough
 
-link
+link - https://www.loom.com/share/37ee0885ecc74fc195d158919c4ea594?sid=061013f6-a380-44b1-bf75-0612d1887298
 
 ## Author
   
